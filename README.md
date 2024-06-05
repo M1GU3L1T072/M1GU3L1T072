@@ -7,3 +7,5 @@ Meu nome é Miguel Alves
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você entra em contato comigo 📫
+
+- 00001114720847sp@al.educacao.sp.gov
