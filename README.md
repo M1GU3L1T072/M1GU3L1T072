@@ -1,12 +1,12 @@
 ### Boas vindas ao meu perfil 💀
 
-Meu nome é Miguel Alves
+Meu nome é Miguel Alves ☕
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você entra em contato comigo 📫
+- ### Você entra em contato comigo aqui! 📫
 
 - 00001114720847sp@al.educacao.sp.gov
 
